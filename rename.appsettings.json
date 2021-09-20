@@ -1,0 +1,15 @@
+{
+    "Data": {
+        "Database": {
+            "ConnectionString": "Server=bitsql.wctc.edu;Database=XXX;User ID=YYY;Password=ZZZ"
+        }
+    },
+    "Logging": {
+        "LogLevel": {
+            "Default": "Information",
+            "Microsoft": "Warning",
+            "Microsoft.Hosting.Lifetime": "Information"
+        }
+    },
+    "AllowedHosts": "*"
+}
